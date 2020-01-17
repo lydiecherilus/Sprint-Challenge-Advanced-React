@@ -1,8 +1,7 @@
 import React from "react";
-import PlayerCard from  "./PlayerCard";
+import PlayerCard from "./PlayerCard";
 
 class PlayersList extends React.Component {
-
     render(props) {
         return (
             <div className="player_list">
